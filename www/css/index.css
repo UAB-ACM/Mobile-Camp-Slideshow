@@ -1,0 +1,10 @@
+.received {
+    display: none;
+}
+
+#slideshow {
+	height:auto;
+	width:auto;
+	max-width:100%;
+	max-height:100%;
+}
